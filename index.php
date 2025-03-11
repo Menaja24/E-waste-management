@@ -1,9 +1,9 @@
 <?php
 ini_set('SMTPAuth', true);
 ini_set('SMTPSecure', 'tls');
-ini_set('Username', 'nandamnagasivani@gmail.com'); // Your Gmail email address
-ini_set('Password', 'Mangaiah@77'); // Your Gmail password
-$yourEmail = 'nandamnagasivani@gmail.com';
+ini_set('Username', 'menajapenubothu@gmail.com'); // Your Gmail email address
+ini_set('Password', 'Menaja7399!'); // Your Gmail password
+$yourEmail = 'menajapenubothu@gmail.com';
 if(isset($_POST['submitted'])) { 
     if($_POST['contact_name'] === '') { 
             $hasError = true;
