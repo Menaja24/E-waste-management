@@ -98,7 +98,6 @@ if(isset($_POST['submitted'])) {
 						<nav>
 							<ul id="menu">
 								<li><a href="#project">Project</a></li>
-								<li><a href="#team">Team</a></li>
 								<li><a href="#services">Services</a></li>
 								<li><a href="#gallery">Gallery</a></li>
 								<li><a href="#events">Events</a></li>
@@ -121,8 +120,8 @@ if(isset($_POST['submitted'])) {
 	            	</li>
 	            	<li style="background-color: rgb(5, 187, 215)">
 		            	<div class="slide-content">
-			            	<h1>Our project</h1>
-			            	<h3>E-waste is growing exponentially as global consumer demand continues to increase and has become a global concern. We have just took a small step to spread awareness about e-waste and help in fighting with this waste monster. As we all know, every great journey begins with a small initiative.</h3>
+			            	<h1>project</h1>
+			            	<h3>E-waste is growing exponentially as global consumer demand continues to increase and has become a global concern. I have just took a small step to spread awareness about e-waste and help in fighting with this waste monster. As we all know, every great journey begins with a small initiative.</h3>
 							<div class="pull-right">
 								<a href="faq.html" class="btn btn-default" target=_blank>FAQ</a>
 							</div>
@@ -145,26 +144,13 @@ if(isset($_POST['submitted'])) {
 	            </ul>
             	<ul class="sequence-pagination">
 					<li>Welcome</li>
-					<li>Our Project</li>
+					<li>Project</li>
 					<li>Who is behind</li>
 				</ul>
 			</section>
-			<section id="team" class="center section with-arrow">
-				<div class="section-header">
-					<h1>Who We Are</h1>
-					<hr>
-				</div>
-				<div class="section-content section-no-top-padding">
-					<div class="container">
-						<h3>We are a group of people working together for the <span class="colored">betterment of our environment</span> and have freedom from <span class="colored"> toxics.</span>
-							We have taken it upon ourselves to <span class="colored"> collect and share information </span> about the sources and harmful impact of improper handling of e-waste to our <span class="colored">mother nature, </span> as well as about the management and disposal of e-waste in a  <span class="colored">globally acceptable</span> manner.</h3>
-						<a href="#contact" class="btn btn-default">Get In Touch</a>
-					</div>
-				</div>
-			</section>
 			<section id="services" class="section section-full-colored">
 				<div class="section-header">
-					<h1>What We Do</h1>
+					<h1>What I Do</h1>
 					<hr>
 				</div>
 				<div class="section-content">
@@ -500,7 +486,7 @@ if(isset($_POST['submitted'])) {
 			</section>
 			<section id="footer" class="section section-full-colored">
 				<div class="section-content center">
-					<p>&copy; 2024 - Sivani, Srija, Sundeep & Vishnu. Made with <i class="fa fa-heart" style="font-size: 20px; color:red;"> &#9829; </i> in India.</p>
+					<p>&copy; 2025 - Penubothu Menaja. Made with <i class="fa fa-heart" style="font-size: 20px; color:red;"> &#9829; </i> in India.</p>
 				</div>
 			</section>
 		</div>
