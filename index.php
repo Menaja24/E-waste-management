@@ -131,8 +131,7 @@ if(isset($_POST['submitted'])) {
 		            	<div class="slide-content">
 			            	<h1 class="center">Person beyond</h1>
 			            	<div class="center">
-			            		<img src="images/slider/funder1.jpg" class="pull-left" alt="image in slider slide">
-                      <img src="images/slider/funder2.jpg" class="pull-right" alt="image in slider slide">
+			            		<img src="images/slider/funder2.jpg" class="pull-left" alt="image in slider slide">
 				            	<h2>Tushar Arora & Aman Bhargava </h2>
                       <p>  Interested in doing something new everytime and like to face challenges  </p>
 				            	<p>CSM student |  Social Activist  | Entertainer  | Coder</p>
