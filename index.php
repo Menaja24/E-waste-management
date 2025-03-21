@@ -144,7 +144,7 @@ if(isset($_POST['submitted'])) {
             	<ul class="sequence-pagination">
 					<li>Welcome</li>
 					<li>Project</li>
-					<li>Person Beyond</li>
+					<li>  Person Beyond</li>
 				</ul>
 			</section>
 			<section id="services" class="section section-full-colored">
@@ -390,7 +390,7 @@ if(isset($_POST['submitted'])) {
 											<div class="post-content">
 												<h3>E-waste - An Untapped Treasure</h3>
 												<div class="post-data">
-													<p><span class="icon icon-clock"></span> Posted on November 11, 2016</p>
+													<p><span class="icon icon-clock"></span> Posted on November 11, 2017</p>
 												</div>
 												<p>Not all treasures glitter like gold and silver , sometimes they can be hidden and thrown inti your waste also . E-waste a hidden treasure !</p>
 
@@ -411,7 +411,7 @@ if(isset($_POST['submitted'])) {
 											<div class="post-content">
 												<h3>Status of e-waste in India</h3>
 												<div class="post-data">
-													<p><span class="icon icon-clock"></span>Posted on November 13, 2016</p>
+													<p><span class="icon icon-clock"></span>Posted on November 13, 2018</p>
 												</div>
 												<p> India, which has emerged as the world’s second largest mobile market, is also the fifth largest producer of e-waste. And it's only growing day by day..</p>
 												<div class="center">
