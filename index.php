@@ -134,8 +134,8 @@ if(isset($_POST['submitted'])) {
 			            		<img src="images/slider/funder1.jpg" class="pull-left" alt="image in slider slide">
                       <img src="images/slider/funder2.jpg" class="pull-right" alt="image in slider slide">
 				            	<h2>Tushar Arora & Aman Bhargava </h2>
-                      <p>  Passionate About Creating Products That Matter </p>
-				            	<p>Bloggers  | Coders | Web Developers | Social Activists </p>
+                      <p>  Interested in doing something new everytime and like to face challenges  </p>
+				            	<p>CSM student |  Social Activist  | Entertainer  | Coder</p>
 
 								<a href="https://twitter.com/iam_bhargava" target="_blank" class="btn btn-twitter"><span class="icon icon-twitter"></span> Twitter</a>
 			            	</div>
@@ -210,13 +210,13 @@ if(isset($_POST['submitted'])) {
 		                    <li>
 		                    	<div class="gallery-item">
 						    		<a href="images/gallery/1.jpg" data-fancybox-group="group1" class="fancybox">
-						    			<span>Sources of E-waste </span>
+						    			<span>Together Lets re-construct </span>
 							    		<img src="images/gallery/1.jpg" width="300" height="200" alt="Image gallery">
 						    		</a>
 					    		</div>
                           <div class="gallery-item">
 						    		<a href="images/gallery/2.jpg" data-fancybox-group="group1" class="fancybox">
-						    			<span>Save Earth before It's too Late</span>
+						    			<span>Miniature Toy Robots Made from Recycled Electronic Components</span>
 							    		<img src="images/gallery/2.jpg" width="300" height="200" alt="Image gallery">
 						    		</a>
 					    		</div>
@@ -224,7 +224,7 @@ if(isset($_POST['submitted'])) {
 		                    <li>
 		                    	<div class="gallery-item">
 						    		<a href="images/gallery/3.jpg" data-fancybox-group="group1" class="fancybox">
-						    			<span>Miniature Toy Robots Made from Recycled Electronic Components</span>
+						    			<span>Save Earth before It's too Late</span>
 							    		<img src="images/gallery/3.jpg" width="300" height="200" alt="Image gallery">
 						    		</a>
 					    		</div>
@@ -238,13 +238,13 @@ if(isset($_POST['submitted'])) {
 		                    <li>
 		                    	<div class="gallery-item">
 						    		<a href="images/gallery/5.jpg" data-fancybox-group="group1" class="fancybox">
-						    			<span>Keep Calm and Go Green </span>
+						    			<span>Types of E-Waste </span>
 							    		<img src="images/gallery/5.jpg" width="300" height="200" alt="Image gallery">
 						    		</a>
 					    		</div>
 		                    	<div class="gallery-item">
 						    		<a href="images/gallery/6.jpg" data-fancybox-group="group1" class="fancybox">
-						    			<span>BATTERY WASTE DISPOSAL</span>
+						    			<span>Poisoning the poor</span>
 							    		<img src="images/gallery/6.jpg" width="300" height="200" alt="Image gallery">
 						    		</a>
 					    		</div>
@@ -252,13 +252,13 @@ if(isset($_POST['submitted'])) {
 		                    <li>
 		                    	<div class="gallery-item">
 						    		<a href="images/gallery/7.jpg" data-fancybox-group="group1" class="fancybox">
-						    			<span>Poisoning the poor</span>
+						    			<span>Responsible Recycling</span>
 							    		<img src="images/gallery/7.jpg" width="300" height="200" alt="Image gallery">
 						    		</a>
 					    		</div>
 		                    	<div class="gallery-item">
 						    		<a href="images/gallery/8.jpg" data-fancybox-group="group1" class="fancybox">
-						    			<span>The Three R's</span>
+						    			<span>Recycle and Reuse</span>
 							    		<img src="images/gallery/8.jpg" width="300" height="200" alt="Image gallery">
 						    		</a>
 					    		</div>
@@ -266,7 +266,7 @@ if(isset($_POST['submitted'])) {
 		                    <li>
 		                    	<div class="gallery-item">
 						    		<a href="images/gallery/9.jpg" data-fancybox-group="group1" class="fancybox">
-						    			<span>Where does e-waste end up?</span>
+						    			<span>Harmful health effects of E-Waste</span>
 							    		<img src="images/gallery/9.jpg" width="300" height="200" alt="Image gallery">
 						    		</a>
 					    		</div>
@@ -280,7 +280,7 @@ if(isset($_POST['submitted'])) {
 		                    <li>
 		                    	<div class="gallery-item">
 						    		<a href="images/gallery/11.jpg" data-fancybox-group="group1" class="fancybox">
-						    			<span> Our Wireless Addiction , Creating a Big E-Waste Problem </span>
+						    			<span> BATTERY WASTE DISPOSAL </span>
 							    		<img src="images/gallery/11.jpg" width="300" height="200" alt="Image gallery">
 						    		</a>
 					    		</div>
@@ -429,7 +429,7 @@ if(isset($_POST['submitted'])) {
 			</section>
 			<section id="donation" class="section section-image" style="background-image: url('images/donation_cover.jpg');">
 				<div class="section-content center">
-					<h2>Want to donate your household e-waste?</h2>
+					<h2>Have you thought about donating your outdated electronic items?</h2>
 					<a href="calc.html" class="btn btn-donation btn-success">Make a Contribution</a>
 				</div>
 			</section>
