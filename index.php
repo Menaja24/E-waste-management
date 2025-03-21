@@ -129,7 +129,7 @@ if(isset($_POST['submitted'])) {
 	            	</li>
 	            	<li style="background-color: #DD85D7;">
 		            	<div class="slide-content">
-			            	<h1 class="center">   Person beyond</h1>
+			            	<h1 class="center">   Person   beyond</h1>
 			            	<div class="center">
 			            		<img src="images/slider/funder2.jpg" class="pull-left" alt="image in slider slide">
 				            	<h2>Tushar Arora & Aman Bhargava </h2>
