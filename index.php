@@ -118,7 +118,7 @@ if(isset($_POST['submitted'])) {
 
 		            	</div>
 	            	</li>
-	            	<li style="background-color: rgb(5, 187, 215)">
+	            	<li style="background-color: rgb(257, 174, 210)">
 		            	<div class="slide-content">
 			            	<h1>project</h1>
 			            	<h3>E-waste is growing exponentially as global consumer demand continues to increase and has become a global concern. I have just took a small step to spread awareness about e-waste and help in fighting with this waste monster. As we all know, every great journey begins with a small initiative.</h3>
@@ -127,9 +127,9 @@ if(isset($_POST['submitted'])) {
 							</div>
 		            	</div>
 	            	</li>
-	            	<li style="background-color: #0DB4E9;">
+	            	<li style="background-color: #DD85D7;">
 		            	<div class="slide-content">
-			            	<h1 class="center">Who Is Behind</h1>
+			            	<h1 class="center">Person beyond</h1>
 			            	<div class="center">
 			            		<img src="images/slider/funder1.jpg" class="pull-left" alt="image in slider slide">
                       <img src="images/slider/funder2.jpg" class="pull-right" alt="image in slider slide">
@@ -145,7 +145,7 @@ if(isset($_POST['submitted'])) {
             	<ul class="sequence-pagination">
 					<li>Welcome</li>
 					<li>Project</li>
-					<li>Who is behind</li>
+					<li>Person Beyond</li>
 				</ul>
 			</section>
 			<section id="services" class="section section-full-colored">
@@ -430,7 +430,7 @@ if(isset($_POST['submitted'])) {
 			<section id="donation" class="section section-image" style="background-image: url('images/donation_cover.jpg');">
 				<div class="section-content center">
 					<h2>Want to donate your household e-waste?</h2>
-					<a href="calc.html" class="btn btn-donation btn-success">Make a Donation</a>
+					<a href="calc.html" class="btn btn-donation btn-success">Make a Contribution</a>
 				</div>
 			</section>
 			<section id="contact" class="section with-arrow">
